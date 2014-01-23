@@ -5,7 +5,7 @@
     <string name="action_settings">Settings</string>
     <string name="Tela_1">Tela 1</string>
     <string name="Tela_2">Tela 2</string>
-    <string name="ChamarOutraActivity">Chamar Outra Activity</string>
-    <string name="Button2">Fechar Activity</string>
+    <string name="ChamarOutraActivity">Mudar</string>
+    <string name="Button2">OK</string>
 
 </resources>

@@ -12,16 +12,19 @@
         android:id="@+id/textView1"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="136dp"
+        android:textSize="22sp"
         android:text="@string/Tela_1" />
 
     <Button
         android:id="@+id/button1"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_below="@+id/textView1"
         android:layout_centerHorizontal="true"
-        android:layout_marginTop="132dp"
-        android:text="@string/ChamarOutraActivity"
-        android:onClick="chamarOutraActivity" />
+        android:layout_centerVertical="true"
+        android:onClick="chamarOutraActivity"
+        android:text="@string/ChamarOutraActivity" />
 
 </RelativeLayout>
